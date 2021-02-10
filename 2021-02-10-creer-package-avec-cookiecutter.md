@@ -12,3 +12,4 @@ conda install pip
 pip install cookiecutter
 ```
 
+- générer le package : cookiecutter https://github.com/audreyr/cookiecutter-pypackage.git
